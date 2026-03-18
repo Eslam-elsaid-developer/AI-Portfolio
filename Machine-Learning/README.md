@@ -10,7 +10,11 @@ This directory contains my end-to-end Machine Learning projects, focusing on bui
 A high-accuracy regression project achieving a **0.992 R2 score** to predict environmental impacts.
 * **Key Tasks:** Data Cleaning, Feature Engineering, Model Optimization, and Web Dashboard.
 * **Tech:** Python, Random Forest, Streamlit, Scikit-learn.
- 
+### 2. House Price Prediction: Advanced Feature Engineering
+A high-precision regression model achieving a **0.998 R2 score** through complex property valuation indices.
+* **Key Tasks:** Advanced Feature Engineering (Luxury & Structural Indices), Pipeline Serialization, and Outlier Management.
+* **Tech:** Python, Linear Regression, Scikit-learn, Pandas, Joblib.
+
 
 ---
 
