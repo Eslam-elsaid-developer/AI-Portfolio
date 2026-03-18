@@ -5,7 +5,7 @@ This directory showcases my ability to explore, clean, and analyze complex datas
 ---
 
 ## 📂 Featured Projects
-### 3. Retail Store Sales Analysis
+### 1. Retail Store Sales Analysis
 A business-centric analysis of retail transactions to identify sales drivers and customer purchasing patterns.
 * **Key Tasks:** Transaction Auditing, Category Performance Analysis, and Time-series Sales Trends.
 * **Tech:** Python, Pandas, Seaborn, Matplotlib.
