@@ -10,7 +10,7 @@ This directory contains my end-to-end Machine Learning projects, focusing on bui
 A high-accuracy regression project achieving a **0.992 R2 score** to predict environmental impacts.
 * **Key Tasks:** Data Cleaning, Feature Engineering, Model Optimization, and Web Dashboard.
 * **Tech:** Python, Random Forest, Streamlit, Scikit-learn.
-* **[View Project Folder](/. Global Emissions Prediction)** 
+ 
 
 ---
 
