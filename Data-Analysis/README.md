@@ -10,6 +10,10 @@ A business-centric analysis of retail transactions to identify sales drivers and
 * **Key Tasks:** Transaction Auditing, Category Performance Analysis, and Time-series Sales Trends.
 * **Tech:** Python, Pandas, Seaborn, Matplotlib.
 
+### 2. Heart Disease Diagnostic Analysis
+An exploration of clinical health indicators to identify patterns and risk factors in cardiovascular disease.
+* **Key Tasks:** Clinical Data Cleaning, Correlation Mapping, and Demographic Risk Analysis.
+* **Tech:** Python, Pandas, Seaborn, Matplotlib.
 ---
 
 ## ⚙️ Analysis Workflow
