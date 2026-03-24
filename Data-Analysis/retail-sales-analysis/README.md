@@ -29,8 +29,3 @@ The findings from this analysis can be used to:
 1. Optimize marketing campaigns during high-traffic periods.
 2. Adjust inventory levels based on top-performing categories.
 3. Improve customer retention strategies by understanding buying habits.
-
----
-
-## 📂 Project Structure
-* `retail_store_sales.ipynb`: The main Jupyter notebook containing the full analysis and visualizations.
