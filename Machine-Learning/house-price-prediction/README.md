@@ -42,11 +42,3 @@ I developed a custom feature engineering suite to capture non-linear relationshi
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Scikit-learn, Joblib.
 * **Techniques:** Linear Regression, Feature Engineering, Pipeline Serialization.
-
----
-
-## 📂 Project Structure
-* `N1_Cleaning.ipynb`: Data auditing and cleaning.
-* `N2_FeatureEngineering.ipynb`: Implementation of the `add_features` logic.
-* `N3_Modeling.ipynb`: Training, validation, and performance assessment.
-* `preprocessing_pipeline.joblib`: The production-ready preprocessing object.
